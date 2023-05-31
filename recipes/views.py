@@ -23,7 +23,7 @@ class RecipeListViewBase(ListView):
         qs = qs.filter(
             is_published=True,
         )
-        qs = qs.select_related("author", "category")
+        qs = qs.select_related("author", "category", "author__profile")
         return qs
 
     def get_context_data(self, *args, **kwargs):
