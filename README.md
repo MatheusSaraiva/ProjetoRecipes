@@ -41,7 +41,7 @@ Pré-requisitos: Python 3
 
 ```bash
 # clonar repositório
-$ git clone -b master https://github.com/MatheusSaraiva/ProjetoRecipes.git
+$ git clone -b main https://github.com/MatheusSaraiva/ProjetoRecipes.git
 
 # Para instalar as dependências "requirements.txt"
 $ pip install -r requirements.txt
