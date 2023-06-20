@@ -8,21 +8,21 @@ Projeto Recipes é uma aplicação full stack feita em python, a princípio é u
 
 
 ## Layout web
-![Web 1](https://github.com/MatheusSaraiva/img/home.jpg)
+![Web 1](https://github.com/MatheusSaraiva/ProjetoRecipes/blob/master/img/home.jpg)
 
-![Web 2](https://github.com/MatheusSaraiva/img/pao-de-queijo.jpg)
+![Web 2](https://github.com/MatheusSaraiva/ProjetoRecipes/blob/master/img/pao-de-queijo.jpg)
 
-![Web 3](https://github.com/MatheusSaraiva/img/register.jpg)
+![Web 3](https://github.com/MatheusSaraiva/ProjetoRecipes/blob/master/img/register.jpg)
 
-![Web 4](https://github.com/MatheusSaraiva/img/login.jpg)
+![Web 4](https://github.com/MatheusSaraiva/ProjetoRecipes/blob/master/img/login.jpg)
 
-![Web 5](https://github.com/MatheusSaraiva/img/dashboard.jpg)
+![Web 5](https://github.com/MatheusSaraiva/ProjetoRecipes/blob/master/img/dashboard.jpg)
 
-![Web 5](https://github.com/MatheusSaraiva/img/register-recipe.jpg)
+![Web 5](https://github.com/MatheusSaraiva/ProjetoRecipes/blob/master/img/register-recipe.jpg)
 
-![Web 5](https://github.com/MatheusSaraiva/img/admin.jpg)
+![Web 5](https://github.com/MatheusSaraiva/ProjetoRecipes/blob/master/img/admin.jpg)
 
-![Web 5](https://github.com/MatheusSaraiva/img/admin-recipes.jpg)
+![Web 5](https://github.com/MatheusSaraiva/ProjetoRecipes/blob/master/img/admin-recipes.jpg)
 
 # Tecnologias utilizadas
 ## Back end
