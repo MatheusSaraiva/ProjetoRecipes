@@ -1,10 +1,10 @@
-# projectRecipes
+# Projeto Recipes
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MatheusSaraiva/ProjetoRecipes/blob/main/LICENSE) 
 
 # Sobre o projeto
 
-Projeto Recipes é uma aplicação full stack feita em python, a princípio é um site simples onde tem como página principal uma lista de receitas com um campo de busca, uma página para receita detalhada, entre outras páginas. Porem foi um projeto que usou praticamente tudo do django,  tendo formulários, validações no formulário, login do usuário, testes unitários, paginação, criação de (usuário, receita e categoria), testes funcionais com selenium e chromedriver e área administrativa.
+O "Projeto Recipes" surgiu como um site aparentemente simples, mas sua complexidade reside nas várias camadas de funcionalidades que foram cuidadosamente implementadas para oferecer uma experiência rica e envolvente. Este projeto, construído predominantemente com Django, transcende as expectativas iniciais, incorporando desde formulários e validações até testes funcionais, demonstrando minha habilidade em explorar profundamente a versatilidade desta poderosa ferramenta.
 
 
 ## Layout web
@@ -25,15 +25,10 @@ Projeto Recipes é uma aplicação full stack feita em python, a princípio é u
 ![Web 5](https://github.com/MatheusSaraiva/ProjetoRecipes/blob/main/img/admin-recipes.jpg)
 
 # Tecnologias utilizadas
-## Back end
-- Python 3.11
-- Django
-- SQLite
-
-## Front end
-- HTML
-- CSS
-- JS
+1. **Python:** A linguagem principal que impulsiona a lógica do projeto.
+2. **Django:** O framework web que proporciona estrutura e eficiência.
+3. **SQLite:** O sistema de gerenciamento de banco de dados leve, ideal para projetos de médio porte.
+4. **JavaScript, HTML, CSS:** Elementos essenciais para a construção de uma interface dinâmica e atraente.
 
 # Como executar o projeto
 
